@@ -7,7 +7,10 @@ permalink:        pretty
 
 # Setup
 title:            Nian Shao
-description:      'PhD Student at EPFL <br> <a href="mailto:nian.shao@epfl.ch"> nian.shao@epfl.ch</a>'
+description:      'PhD Student at EPFL 
+                  <br> <a href="mailto:nian.shao@epfl.ch"> nian.shao@epfl.ch</a>
+                  <br> <a href="https://scholar.google.com/citations?user=bnYu99YAAAAJ&hl"> Google Scholar</a>
+                  <br> <a href="https://github.com/nShao678"> Github</a>'
 baseurl:          /
 
 paginate:         5
