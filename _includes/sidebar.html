@@ -3,8 +3,10 @@
     <div class="sidebar-about">
       <h1>{{ site.title }} </h1>
       <p class="lead">{{ site.description }}</p>
+      <img src="{site.baseurl}/photo.png"  class="sidebar-image">
     </div>
-
+  </div>
+  <div class="container sidebar-sticky">
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
