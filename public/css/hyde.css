@@ -83,9 +83,11 @@ html {
 .sidebar-photo {
   width: 100px; /* Adjust the width of the photo */
   height: auto; /* Maintain aspect ratio */
-  border-radius: 50%; /* Make the photo circular */
-  margin-bottom: 10px; /* Space below the photo */
+  border-radius: 80%; /* Make the photo circular */
+  margin: 0 auto 10px auto; /* Center the photo and add space below */
+  display: block; /* Ensures the image is treated as a block-level element */
 }
+
 
 
 /* Sidebar nav */
