@@ -1,7 +1,4 @@
----
-layout: page
-title: Recent papers
----
+# Recent research
 
 You can explore my research on [Google Scholar profile](https://scholar.google.com/citations?user=bnYu99YAAAAJ&hl=zh-CN). Below are publications and preprints from the past three years.
 
