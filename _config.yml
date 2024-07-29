@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            Nian Shao
-description:      'PhD Student at EPFL <br> Email: nian.shao@epfl.ch'
+description:      'PhD Student at EPFL <br> <a href="mailto:nian.shao@epfl.ch"> nian.shao@epfl.ch</a>'
 baseurl:          /
 
 paginate:         5
